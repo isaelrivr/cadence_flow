@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Credenciales y entorno
+.env
+.env.*
+credentials.json
+token.json
+
+# Sistema / IDE
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
